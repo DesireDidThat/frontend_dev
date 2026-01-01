@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section {
+    background-color: rgb(194, 187, 187);
+    padding: 15px;
+    margin: 20px;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    font-size: large;
+color: rgb(155, 97, 22);
+}
+

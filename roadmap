@@ -1,0 +1,195 @@
+<!--FRONTEND DEVELOPMENT ROADMAP
+
+
+STATUS:
+-------
+✔ Day 1: HTML Basics
+✔ Day 2: Semantic HTML + Images + Links
+
+
+PHASE 1: WEB FOUNDATIONS
+=======================
+
+Day 1 – HTML Basics ✔
+---------------------
+- What is the web (browser, server)
+- HTML file structure
+- Tags & elements
+- Headings, paragraphs
+- <br>, <hr>
+- Mini task: Simple text page
+
+Day 2 – Semantic HTML ✔
+----------------------
+- <header>, <nav>, <main>, <section>, <footer>
+- Anchor tags (<a>, href)
+- Images (<img>, src, alt)
+- Folder structure
+- Mini task: Personal bio page (DONE)
+
+
+Day 3 – Lists, Tables & Forms
+-----------------------------
+- Ordered & unordered lists
+- Tables (<table>, <tr>, <td>)
+- Forms (<input>, <label>, <button>)
+- Form types (text, email, password)
+- Mini task: Contact form page
+
+Day 4 – Media & HTML Best Practices
+-----------------------------------
+- Audio & video tags
+- iframe (YouTube embed)
+- HTML attributes
+- Accessibility basics
+- Mini task: Media-rich page
+
+
+PHASE 2: CSS FUNDAMENTALS
+========================
+
+Day 5 – CSS Basics
+------------------
+- Inline, internal, external CSS
+- Selectors
+- Colors, fonts
+- Text styling
+
+Day 6 – Box Model
+-----------------
+- Margin, padding, border
+- Width & height
+- Display types
+
+Day 7 – Flexbox
+---------------
+- Flex container & items
+- Alignment & spacing
+- Layout building
+
+Day 8 – Grid + Responsive Design
+--------------------------------
+- CSS Grid basics
+- Media queries
+- Mobile-first design
+
+Mini Project 1:
+---------------
+- Responsive personal website
+
+
+PHASE 3: ADVANCED CSS
+====================
+
+Day 9 – Animations & Transitions
+--------------------------------
+- Hover effects
+- Keyframes
+- Smooth transitions
+
+Day 10 – CSS Framework
+----------------------
+- Tailwind OR Bootstrap
+- Utility classes
+- Rapid layout building
+
+Mini Project 2:
+---------------
+- 3-page responsive website
+
+
+PHASE 4: JAVASCRIPT BASICS
+=========================
+
+Day 11 – JS Fundamentals
+------------------------
+- Variables
+- Data types
+- Operators
+
+Day 12 – Functions & Logic
+--------------------------
+- Functions
+- Conditionals
+- Loops
+
+Day 13 – Arrays & Objects
+-------------------------
+- Array methods
+- Object properties
+
+Day 14 – DOM Manipulation
+-------------------------
+- document.querySelector
+- Events
+- Button clicks
+
+Mini Project 3:
+---------------
+- Interactive To-Do App
+
+
+PHASE 5: GIT, GITHUB & TOOLS
+===========================
+
+Day 15 – Git Basics
+-------------------
+- git init
+- git status
+- git add / commit
+
+Day 16 – GitHub Workflow
+------------------------
+- Repositories
+- Push & pull
+- GitHub Pages
+
+Mini Task:
+----------
+- Host your website online
+
+
+PHASE 6: REAL WORLD FRONTEND
+============================
+
+Day 17 – Modern JS
+------------------
+- ES6
+- Arrow functions
+- Destructuring
+
+Day 18 – APIs
+-------------
+- Fetch API
+- JSON
+- Public APIs
+
+Mini Project 4:
+---------------
+- Weather App / API Project
+
+
+PHASE 7: REACT (OPTIONAL BUT RECOMMENDED)
+=========================================
+
+- React basics
+- Components
+- Props & state
+- Hooks
+- Simple React project
+
+
+FINAL GOAL
+==========
+✔ Strong HTML + CSS
+✔ Solid JavaScript
+✔ GitHub portfolio
+✔ Ready for internships / freelancing / next stack
+
+
+NEXT STEP FOR YOU
+=================
+➡ Start **Day 3: Lists, Tables & Forms**
+➡ Tell me when you’re ready and I’ll teach it step-by-step
+➡ Or say: "Give Day 3 task only"
+-->
